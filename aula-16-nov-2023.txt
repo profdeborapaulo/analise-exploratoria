@@ -1,0 +1,34 @@
+https://github.com/profdeborapaulo
+
+# Análise Exploratória de Dados
+## 16 de novembro de 2023
+
+# Analise de Pedidos
+### O Objetivo será analisar a base de dados de Pedidos e extrair o máximo de informações possíveis para gerar o relatório de análise.
+1. Entrar no github https://github.com/profdeborapaulo/ e fazer o download do arquivo PlanilhadePedidos.xlsx
+2. Abrir o colab
+3. Importar as bibliotecas necessárias
+4. Carregar a base de dados
+5. Processar os dados
+6. Interpretar e Contextualizar
+7. Visualizar os dados
+8. Emitir o Relatório
+9. Disponibilizar
+
+Iniciando a análise:
+1 - Mostrar as 5 primeiras linhas do dataframe
+2 - Mostrar as 5 últimas linhas do dataframe
+3 - Quantas linhas e colunas existem no dataframe?
+4 - Acessar uma das colunas do dataframe para gerar
+informação
+5 - Descrever os campos numéricos e os analise
+6 - Qual o total de pedidos por estado?
+7 - Qual a media aritmetica, mediana e moda dos pedidos por estado?
+8 - Qual a media aritmetica, mediana e moda dos pedidos por filial?
+9 - Mostrar o maior e o menor valor do Pedido
+10 - Filtrar pela coluna categoria na qual o produto é o computador e analisar
+11 - Filtrar todas as linhas do dataframe na qual o valor do produto é igual a 2500
+12 - Calcular a contagem de produto por categoria
+13 - Mostrar todos os produtos na qual a categoria está como cancelado e analisar.
+
+Ao final, gerar os gráficos para visualização e emitir o parecer
