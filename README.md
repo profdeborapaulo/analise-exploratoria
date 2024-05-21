@@ -1,1 +1,2 @@
-# analise-exploratoria-unifieo
+# analise-exploratoria:
+### arquivos para usar na aula
